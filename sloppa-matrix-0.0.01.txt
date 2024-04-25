@@ -1,0 +1,7 @@
+Trait|Sloppa|Borderline Sloppa|Not Sloppa
+Consistency|Thick, stew-like, sauce-heavy|Moderately thick or saucy|Thin, dry, or solid
+Presentation|In a bowl or dish, heavily topped, borderline plate (with risk of spills)|On a plate with moderate toppings or sauce|Neatly presented on a plate, bun, or lightly topped
+Main components|Meat, noodles, eggs, cooked beans, cooked grains, well-cooked potatoes, cream or syrup-based desserts|Combinations of sloppa and non-sloppa components|Raw vegetables, uncooked grains, lightly cooked potatoes, dry desserts
+Cheese factor (optional)|Melted, gooey, or abundant (can push a dish into sloppa territory)|Moderate amount of cheese|Minimal or no cheese
+Moisture level|High, with visible liquid or sauce|Moderate, with some visible moisture|Low, with little to no visible moisture
+Salad exception|High dressing-to-contents ratio, or appropriate sloppa-like contents|Moderate dressing, some sloppa-like contents|Low dressing, mostly raw vegetables
